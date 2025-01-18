@@ -1,0 +1,10 @@
+{
+    "name": "Weed+Tunesmetics",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK",
+    "description": "Weed+Tunes Dedicated C- erm... Server Cosmetics! Adds Titles and Colors, + Alien Cosmetics",
+    "dependencies": [
+        "NotNet-GDWeave-2.0.13",
+        "Sulayre-Lure-4.2.0"
+    ]
+}
