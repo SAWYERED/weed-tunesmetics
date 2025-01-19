@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/24a564ae-0ce1-4615-9d29-20cd31ebd636)
 
 
 ## Weed+Tunesmetics  
