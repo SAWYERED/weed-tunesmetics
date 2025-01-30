@@ -1,2 +1,2 @@
 ## Initial Release 🥳  
-fixed title codes
+added colors and titles
