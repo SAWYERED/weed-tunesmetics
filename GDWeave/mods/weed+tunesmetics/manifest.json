@@ -1,0 +1,14 @@
+{
+    "Id": "weed+tunesmetics",
+    "PackPath": "weed+tunesmetics.pck",
+    "Dependencies": [
+        "TeamLure-LureRefreshed-4.3.1"
+    ],
+    "Metadata": {
+        "Name": "Weed+Tunesmetics",
+        "Author": "SAWYERED",
+        "Description": "Weed+Tunes Dedicated C- erm... Server Cosmetics! Adds Titles and Colors, + Alien Cosmetics. glorpa gazoopa ! nonglorpians are all the same - zubiza zub zub see us coming. LMGO",
+        "Version": "1.2.7",
+        "Homepage": "https://github.com/SAWYERED/WEBFISHING-WEED-N-TUNES-MODPACK"
+    }
+}
